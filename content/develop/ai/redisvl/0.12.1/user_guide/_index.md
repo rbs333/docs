@@ -1,10 +1,9 @@
 ---
 linkTitle: User guides
 title: User Guides
-aliases:
-- /integrate/redisvl/user_guide
 weight: 4
 hideListLinks: true
+url: '/develop/ai/redisvl/0.12.1/user_guide/'
 ---
 
 

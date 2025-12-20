@@ -1,9 +1,8 @@
 ---
 linkTitle: SVS-VAMANA vector search
 title: SVS-VAMANA Vector Search
-aliases:
-- /integrate/redisvl/user_guide/09_svs_vamana
 weight: 09
+url: '/develop/ai/redisvl/0.12.1/user_guide/svs_vamana/'
 ---
 
 

@@ -1,9 +1,8 @@
 ---
 linkTitle: Querying with RedisVL
 title: Querying with RedisVL
-aliases:
-- /integrate/redisvl/user_guide/02_hybrid_queries
 weight: 02
+url: '/develop/ai/redisvl/0.12.1/user_guide/hybrid_queries/'
 ---
 
 

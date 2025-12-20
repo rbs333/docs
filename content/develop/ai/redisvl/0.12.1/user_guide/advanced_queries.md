@@ -1,9 +1,8 @@
 ---
 linkTitle: Advanced query types
 title: Advanced Query Types
-aliases:
-- /integrate/redisvl/user_guide/11_advanced_queries
 weight: 11
+url: '/develop/ai/redisvl/0.12.1/user_guide/advanced_queries/'
 ---
 
 
